@@ -1,5 +1,0 @@
-<body style="background-image: url('chaosvm.png');">
-<title>CHAOS VM - ERROR</title>
-   <text> CHAOS VM IS TEMPORAILY OFFLINE </text>
-    <meta http-equiv="refresh" content="0;url=https://chaosofwebsimai.github.io/chaosvmrules">
-            </body>
